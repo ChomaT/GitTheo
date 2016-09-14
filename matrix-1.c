@@ -31,6 +31,9 @@ int main()
 	long int r ;
 	char c ;
 	
+	printf("This is a major change in my file.");
+
+	
 	do {
 		enter_vector(MESSAGE_A, &a) ;
 		enter_vector(MESSAGE_B, &b) ;
