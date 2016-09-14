@@ -50,10 +50,6 @@ int main()
 		
 	} while(c == 'y' ) ;
 	
-
-	printf("This is  a test comment!");
-
-
 	return 0 ;
 }
 
